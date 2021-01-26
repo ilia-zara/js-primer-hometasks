@@ -1,0 +1,22 @@
+{
+    "name": "js-primer",
+    "version": "1.0.0",
+    "description": "Basic JavaScript examples.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git"
+    },
+
+    "license": "MIT",
+    "devDependencies": {
+      "eslint": "^7.6.0",
+      "eslint-config-airbnb-base": "^14.2.0",
+      "eslint-config-prettier": "^6.11.0",
+      "eslint-plugin-import": "^2.22.0",
+      "prettier": "2.0.5"
+    }
+  }
